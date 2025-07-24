@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈 𝐒𝐀𝐒𝐊𝐄 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
+  <title>😈 𝐑𝐀𝐍𝐀 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🩷 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐒𝐊𝐄 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈🐧</h1>
+    <h1 class="mt-3">🥀🩷 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐑𝐀𝐍𝐀 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈🐧</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2022 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐒𝐊𝐄✌️😈🐧</p>
-    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐒𝐊𝐄🔥😈 <a href="https://www.facebook.com/profile.php?id=61578327338121&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2022 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐑𝐀𝐍𝐀✌️😈🐧</p>
+    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐑𝐀𝐍𝐀🔥😈 <a href="https://www.facebook.com/profile.php?id=61578327338121&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+9779765496152" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
